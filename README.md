@@ -40,4 +40,4 @@ Before you begin, ensure you have the following requirements:
    flask run
 2. Open your web browser and navigate to http://localhost:5000 (or as specified) to access the House Price Prediction application.
 3. Enter the values for the area, number of bedrooms, and age of the house.
-4. Click the "Estimate Price" button to get a house price estimate.
+4. Click the "Submit" button to get a house price estimate.
